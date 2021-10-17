@@ -1,6 +1,6 @@
 ### Django Web App
 
-* Run : python manage.py runserver
+* To run the code type : python manage.py runserver
 
 * Python Web App written in django framework. This app has features like:
    * Admin Page
